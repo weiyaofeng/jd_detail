@@ -115,5 +115,6 @@ var zoom={
         .attr("class","backward")
         .next().attr("class","forward");
        }
+  }
 }
 zoom.init();
